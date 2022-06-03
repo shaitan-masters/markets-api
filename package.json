@@ -1,6 +1,6 @@
 {
-	"name"           : "@skinmanager/markets",
-	"description"    : "SkinManager markets implementation library",
+	"name"           : "markets-api",
+	"description"    : "Common trade-markets-api library",
 	"appShortCode"   : "MLMA",
 	"version"        : "0.1.0",
 	"main"           : "dist",

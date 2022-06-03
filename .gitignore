@@ -1,6 +1,5 @@
 .idea
 .vscode
-/defs
 /node_modules
 /test.js
 /.git
